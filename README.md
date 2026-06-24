@@ -10,3 +10,6 @@ These are simple scripts that use node.js and electron to create an executable t
 - After copying files into the cb folder you can simply run `npm run make`
 - This should create an `out` folder containing the executables
 
+## Optional
+- Configure the `mainWindow.setTitle('Cell Browser');` in `main.js` to rename the window if desired. 
+
