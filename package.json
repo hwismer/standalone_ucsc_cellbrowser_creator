@@ -8,10 +8,10 @@
     "make": "electron-forge make"
   },
   "devDependencies": {
-    "@electron-forge/cli": "^latest",
-    "@electron-forge/maker-dmg": "^latest",
-    "@electron-forge/maker-squirrel": "^latest",
-    "@electron-forge/maker-zip": "^latest",
-    "electron": "^latest"
-  }
+  "@electron-forge/cli": "^7.11.2",
+  "@electron-forge/maker-dmg": "^7.11.2",
+  "@electron-forge/maker-squirrel": "^7.11.2",
+  "@electron-forge/maker-zip": "^7.11.2",
+  "electron": "^37.2.0"
+}
 }
